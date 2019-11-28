@@ -1,0 +1,6 @@
+ElMahdi Karbal : Prototype et Wireframe de la page Contact.
+Mouissi Brahim : Prototype et Wireframe de la page Menu.
+Daif Abdellah  : Prototype et Wireframe de la page Accueil.
+
+Lien de site:
+https://www.restaurant-loft.com/
